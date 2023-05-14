@@ -13,7 +13,7 @@ Foram selecionados alguns exercícios que abordam o conteúdo visto no módulo d
 
 ## Screenshots
 
-### Exercício 1 - [Road Reparation](./Read-Reparation/)
+### Exercício 1 - [Road Reparation](./Road-Reparation/)
 
 **Conteúdo**:
 - MSP
