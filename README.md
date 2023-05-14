@@ -32,7 +32,7 @@ Foram selecionados alguns exercícios que abordam o conteúdo visto no módulo d
 
 <center>
 
-![](./assets/Flight-Discount)
+![](./assets/Flight-Discount.png)
 </center>
 
 ### Exercício 3 - [Flight Routes](./Flight-Routes/)
@@ -42,7 +42,7 @@ Foram selecionados alguns exercícios que abordam o conteúdo visto no módulo d
 
 <center>
 
-![](./assets/Flight-Routes)
+![](./assets/Flight-Routes.png)
 </center>
 
 ## Instalação 
